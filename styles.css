@@ -8,18 +8,32 @@ a {
     text-decoration: none;
 }
 
-body.dark {
+body {
     --bg-color: #FEFEFE;
-    --text-color: #1F000B;
+    --text-color: #FEFEFE;
     --primary-color: #424242;
     --primary-color-dark: #171717;
-    background-image: url("img/1.gif");
-    background-color: #171717;
+    background-color: #5b3737;
     font-family: 'Roboto', sans-serif;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    background-image: url("img/1.gif");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.6;
 }
 
 .container {
     text-align: center;
+    color: #FEFEFE;
     width: 300px;
     margin: 60px auto;
 }
