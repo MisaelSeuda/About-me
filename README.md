@@ -13,5 +13,5 @@ Check my portfolio, there are all about me: https://misaelseuda.me/
 <br>
   
 <p align = "center">
-  :sunglasses:<i>Make with ♥ by Misael Santos</i> <strong>2020</strong> :sunglasses: 
+  :sunglasses:<i>Make with ♥ by Misael Seuda</i> <strong>2022</strong> :sunglasses: 
 </p>
