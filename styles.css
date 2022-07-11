@@ -40,6 +40,7 @@ body::before {
 
 img {
     width: 100%;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 img.avatar {
@@ -81,6 +82,7 @@ ul li a {
     margin-bottom: 16px;
     border-radius: 6px;
     transition: background 400ms;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 
