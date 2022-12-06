@@ -12,11 +12,11 @@ body {
     --bg-color: #FEFEFE;
     --text-color: #FEFEFE;
     --primary-color-avatar: #373737;
-    --primary-color-nofap: #252525;
-    --primary-color-dark-nofap: #0c0c0c;
-    --primary-color-hannah: #FF7000;
+    --primary-color-nofap: #313131;
+    --primary-color-dark-nofap: #1b1b1b;
+    --primary-color-hannah: #e0670b;
     --primary-color-dark-hannah: #cf2600;
-    --primary-color-notecolors: #ff255f;
+    --primary-color-notecolors: #de1e51;
     --primary-color-dark-notecolors: rgb(106, 0, 0);
     background-color: #313131;
     font-family: 'Roboto', sans-serif;
