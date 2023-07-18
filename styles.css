@@ -12,12 +12,12 @@ body {
     --bg-color: #FEFEFE;
     --text-color: #FEFEFE;
     --primary-color-avatar: #373737;
-    --primary-color-nofap: #313131;
-    --primary-color-dark-nofap: #1b1b1b;
+    --primary-color-habits: #313131;
+    --primary-color-dark-habits: #1b1b1b;
     --primary-color-hannah: #e0670b;
-    --primary-color-dark-hannah: #cf2600;
-    --primary-color-notecolors: #de1e51;
-    --primary-color-dark-notecolors: rgb(106, 0, 0);
+    --primary-color-dark-hannah: #e22e06;
+    --primary-color-notecolors: #ab3a58;
+    --primary-color-dark-notecolors: rgb(236, 13, 13);
     background-color: #313131;
     font-family: 'Roboto', sans-serif;
 }
@@ -37,15 +37,15 @@ ul li a {
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
-.nofap {
-    background: var(--primary-color-nofap);
+.habits {
+    background: var(--primary-color-habits);
     transition: background 400ms;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
 
-.nofap:hover {
-    background: var(--primary-color-dark-nofap);
+.habits:hover {
+    background: var(--primary-color-dark-habits);
 }
 
 .hannah {
