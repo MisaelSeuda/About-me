@@ -2,7 +2,7 @@
 
 <br>
 
-Check my portfolio, there are all about me: [https://misaelseuda.me/](http://misaelseuda.site/)
+Check my portfolio, there are all about me: [https://misaelseuda.site/](http://misaelseuda.site/)
 
 <br>
 
